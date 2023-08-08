@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97d04b8f-bf4b-4e9d-9d1b-18a20504d225" name="Changes" comment="fx sound application first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/fullscreenbuttonicon1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/fullscreenbuttonicon2.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/menublackcircularbutton_104737.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/red-audio-equlizer-icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/red-close-button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/icons/redpowerbutton.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/grey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/styles/style.css" afterDir="false" />
+    <list default="true" id="97d04b8f-bf4b-4e9d-9d1b-18a20504d225" name="Changes" comment="fx sound application second commit message">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/audio/Jimmy Cooks - Drake  21 Savage (320) (7).mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/fxsound/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/fxsound/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2TecxoZRK8onRd4owy3wq0SPTy7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,20 +28,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sharb/IdeaProjects/FxSound/src/main/resources/icons&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/sharb/IdeaProjects/FxSound/src/main/resources/audio",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sharb\IdeaProjects\FxSound\src\main\resources\audio" />
       <recent name="C:\Users\sharb\IdeaProjects\FxSound\src\main\resources\icons" />
       <recent name="C:\Users\sharb\IdeaProjects\FxSound\src\main\resources\styles" />
     </key>
@@ -70,11 +64,20 @@
       <option name="project" value="LOCAL" />
       <updated>1691408736343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fx sound application second commit message">
+      <option name="closed" value="true" />
+      <created>1691424553969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691424553969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fx sound application first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fx sound application first commit" />
+    <MESSAGE value="fx sound application second commit message" />
+    <option name="LAST_COMMIT_MESSAGE" value="fx sound application second commit message" />
   </component>
 </project>
